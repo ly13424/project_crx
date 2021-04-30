@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello world!
 my frist:
+=======
+hello world
+>>>>>>> 88236b179222bb7650857212b529c4668eed0b40
